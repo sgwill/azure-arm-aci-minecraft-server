@@ -4,7 +4,7 @@
     "parameters": {
         "dnsName": {
             "type": "string",
-            "defaultValue": "sjkpminecraft"
+            "defaultValue": "mgominecraft"
         },
         "storageAccountType": {
             "type": "string",
@@ -62,7 +62,7 @@
     "variables": {
         "cpuCores": 1,
         "memoryInGb": 2,
-        "minecractContainerGroupName": "minecraft",
+        "minecractContainerGroupName": "mgominecraft",
         "minecraftContainerName": "mc",
         "minecraftContainerImage": "[concat('itzg/',parameters('serverType'))]",        
         "fileShareName": "data"
