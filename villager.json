@@ -114,6 +114,18 @@
                                 {
                                     "name": "GAMEMODE",
                                     "value": "[parameters('gamemode')]"
+                                },
+                                {
+                                    "name": "VERSION",
+                                    "value": "1.12.2"
+                                },
+                                {
+                                    "name": "TYPE",
+                                    "value": "FORGE"
+                                },
+                                {
+                                    "name": "FORGEVERSION",
+                                    "value": "1.12.2-14.23.5.2768"
                                 }
                             ],
                             "resources": {
