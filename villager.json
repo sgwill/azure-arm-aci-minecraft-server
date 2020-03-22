@@ -67,8 +67,8 @@
 
     },
     "variables": {
-        "cpuCores": 1,
-        "memoryInGb": 2,
+        "cpuCores": 2,
+        "memoryInGb": 4,
         "minecractContainerGroupName": "villager",
         "minecraftContainerName": "mc",
         "minecraftContainerImage": "[concat('itzg/',parameters('serverType'))]",
